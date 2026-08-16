@@ -1,4 +1,4 @@
-# Desafio Prático SC Clouds
+# Desafio Prático SC Clouds - TypeScript
 
 Este repositório reúne os projetos desenvolvidos para o desafio prático da SC Clouds.
 
